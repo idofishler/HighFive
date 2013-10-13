@@ -1,0 +1,1 @@
+python bt_client.py 98:D6:F7:71:8C:DB
