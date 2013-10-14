@@ -30,8 +30,9 @@ This code is now a mess! hopefully we'll sort it out, with time...
 Links:
 ------
 
-* Youtube: ...
+* http://vimeo.com/76802135
+* http://vimeo.com/76763092
 
 Team Members:
 -------------
-Avi, Yonatan, Shahar, Naama, Ido, Ereli, Clara, Roy, Galit
+Avi, Yonatan, Shahar, Naama, Ido, Ereli, Clara, Roy, Galit, Oded
